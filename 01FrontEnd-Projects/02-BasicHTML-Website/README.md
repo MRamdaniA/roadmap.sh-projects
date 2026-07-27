@@ -11,4 +11,4 @@ Navigation bar with links to each page, at the top of each page
 Structure the content in a way that makes adding styles easy
 Add SEO meta tags
 
-https://roadmap.sh/projects/basic-html-website
+https://github.com/MRamdaniA/roadmap.sh-projects/tree/main/01FrontEnd-Projects/02-BasicHTML-Website
